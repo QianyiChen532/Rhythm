@@ -6,11 +6,14 @@
 
 ### Team Member
 Code: Daisy Chen, Joseph Yang
+
 Dancer: Iris Qin
 
 ### Instructor
 Prof. Margaret Minsky, Prof. Oliver Steele
+
 (Special thanks to Prof. Moon!)
+
 Movement Practice Computation Spring 2020
 
 ### Technique
