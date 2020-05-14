@@ -2,6 +2,7 @@
 
 [Video Link](https://vimeo.com/418311690)
 
+[img](main.png)
 
 ### Team Member
 Code: Daisy Chen, Joseph Yang
